@@ -12,7 +12,7 @@ import java.util.List;
 
 public class RNMarketCommentPackage implements ReactPackage {
 
-    @Override
+    // @Override
     public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
         return Collections.emptyList();
     }
